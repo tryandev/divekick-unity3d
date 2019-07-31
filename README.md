@@ -9,5 +9,4 @@ Third party resources:
 - NGui as UI Framework
 - Unknown source for UI art assets
 
-![picture](screenshot1.png)
-![picture](screenshot2.png)
+<img src="screenshot1.png" width="430"><img src="screenshot2.png" width="430">
